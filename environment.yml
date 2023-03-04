@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - beautifulsoup4=4.11.2=pyha770c72_0
-  - matplotlib=3.5.3=py37h89c1867_2
-  - pandas=1.2.3=py37hdc94413_0
+  - matplotlib=3.5
+  - pandas=1.2
 prefix: /srv/conda/envs/notebook
