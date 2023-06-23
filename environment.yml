@@ -2,3 +2,7 @@ name: notebook
 channels:
   - conda-forge
   - defaults
+dependencies:
+  - pandas
+  - seaborn
+  - scipy
