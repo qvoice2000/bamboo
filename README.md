@@ -14,7 +14,7 @@ Get your data science idea off to fast start with these dataframe cells that you
 ### Which one has the latest package versions?
 
 | Cloud | python version | pandas version |  installer |
-|----|-------|--------------------|
+|----|-------|---------------|------------------|
 |   Binder | 3.10.11 | 2.0.2 | conda-forge |
 |   Anaconda | 3.9.12 | 1.4.2 | anaconda |
 |   Sagemaker|  3.9.13 | 1.5.2 | conda-forge |
